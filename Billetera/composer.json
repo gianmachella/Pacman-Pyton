@@ -1,0 +1,7 @@
+{
+    "name": "academia/billetera",
+    "description": "crear billetera que guarde dinero y sacar dinero, que nos de el total de billetes y de dinero",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
